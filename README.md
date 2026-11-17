@@ -1,6 +1,6 @@
 # Pedro Vinícius Moraes Alves
 
-**Full Stack Developer & IT Manager** · SaaS, Automation & AI · Data & BI
+**Full Stack Developer & IT Manager** · SaaS, Automation & AI · Data & BI  
 Caruaru, Brazil · remote (UTC−3) · Portuguese, English, Spanish
 
 I build complete production systems on my own, from mapping the business process to the code, the database and the server.
